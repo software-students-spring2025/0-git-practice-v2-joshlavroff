@@ -9,4 +9,4 @@ With the recent Deepseek development, I am very interested to see how companies 
 ---
 
 ## Commented by Chuqiao Huang(ch3807):
-I agree with the comment that the rise of AI and volatile hiring trends make the job market uncertain, especially for new graduates in the field of SWE. I totally agree with your point of view, I have choose a similar article which dicuss about how the raise of AI change the need of SWE. I believe that while AI is changing the landscape, real engineers are still needed and will always be needed for creativity, problem-solving, and adapting to new technological challenges.
+I agree with the comment that the rise of AI and volatile hiring trends make the job market uncertain, especially for new graduates in the field of SWE. I totally agree with your point of view and I have chosen a similar article which dicuss about how the raise of AI change the need of SWE. I believe that while AI is changing the landscape, real engineers are still needed and will always be needed for creativity, problem-solving, and adapting to new technological challenges. Nice article!
